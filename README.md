@@ -50,8 +50,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valenMarino&hide=html,css,scss)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valenMarino&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valenMarino&hide=html,css,scss" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=valenMarino&theme=radical&hide_border=true" />
