@@ -67,10 +67,11 @@
 ---
 
 ## ✨ Proyectos Destacados  
-- 🚀 [**SSO API en Node.js**](#) – Autenticación centralizada con JWT y Docker  
-- 🖼️ [**Gestor de Banners en .NET**](#) – ABM con reglas de negocio complejas  
-- 🤖 [**Chatbot con RAG**](#) – Procesamiento de PDFs y audios para consultas inteligentes  
-
+- 🫛 [**venta-ia**](#) – Ejemplo de analizador de venta agro
+- 💻 [**fine-tunning-agro**](#) – Fine Tunning de modelo de IA
+- 🤖 [**Inflecta**](#) – Procesamiento de PDFs y audios para consultas inteligentes
+- 🌐 [**tsEdExample**](#) – Api de node, con typescript y Ts.ED framework
+- 📷 [**photo-gallery-node-api**](#) – Rest API whit files uploads in Node.js
 ---
 
 <!-- Footer -->
