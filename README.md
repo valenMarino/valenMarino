@@ -50,6 +50,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valenMarino&hide=html,css,scss)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valenMarino&layout=compact&theme=radical&hide_border=true" />
 </p>
 <p align="center">
