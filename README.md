@@ -50,7 +50,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valenMarino&hide=html,css,scss&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valenMarino&theme=radical" width="500" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=valenMarino&theme=radical&hide_border=true" />
