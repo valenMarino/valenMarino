@@ -1,17 +1,17 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1DB954&height=200&section=header&text=¡Hola!%20Soy%20Valentín%20👋&fontColor=ffffff&fontSize=45&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1DB954&height=200&section=header&text=¡Hola!%20Soy%20Valen%20👋&fontColor=ffffff&fontSize=45&fontAlignY=35" />
 </p>
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+  <a href="https://www.linkedin.com/in/valentin-marino" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:valemarino1694@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/valentinmarino">
+  <a href="https://github.com/valenMarino">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -19,9 +19,9 @@
 ---
 
 ## 🚀 Sobre mí  
-- 💻 Desarrollador backend y líder técnico en **Santex / Trizap**  
-- ⚡ Me apasiona todo lo relacionado con **DevOps, infraestructura y backend**  
-- 🧠 Siempre aprendiendo cosas nuevas (últimamente sobre **IA + RAG + PWAs**)  
+- 💻 Desarrollador y líder técnico en **Santex / Trizap**  
+- ⚡ Me apasiona todo lo relacionado con **DevOps, infraestructura IA y Cloud**  
+- 🧠 Siempre aprendiendo cosas nuevas (últimamente sobre **IA + RAG **)  
 - 🌱 Fan de **automatización** y optimización de procesos  
 
 ---
