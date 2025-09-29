@@ -50,8 +50,22 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valenMarino&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valenMarino&layout=compact&theme=radical&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=valenMarino&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valenMarino&layout=compact&theme=radical&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=valenMarino&theme=radical&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=valenMarino&theme=dracula&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/valenMarino?style=social" />
+  <img src="https://img.shields.io/github/stars/valenMarino?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=valenMarino&style=flat-square&color=blue" />
 </p>
 
 ---
